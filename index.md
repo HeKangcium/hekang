@@ -38,15 +38,15 @@
 #### 公司/学校/研究所
 - **项目1**  
 项目描述：xxxxxxxxxxxxxxxxxxxxx
----论文地址：http://xueshu.baidu.com/usercenter/paper/show?paperid=bde8feb00f1a38776c50b22f877bb197&site=xueshu_se
+\n论文地址：http://xueshu.baidu.com/usercenter/paper/show?paperid=bde8feb00f1a38776c50b22f877bb197&site=xueshu_se
 - **项目2**  
 项目描述：xxxxxxxxxxxxxxxxxxxxxxxx
----论文地址：http://xueshu.baidu.com/usercenter/paper/show?paperid=bde8feb00f1a38776c50b22f877bb197&site=xueshu_se
+\n论文地址：http://xueshu.baidu.com/usercenter/paper/show?paperid=bde8feb00f1a38776c50b22f877bb197&site=xueshu_se
 
-#### 公司/学校/研究所（2017.9~至今）
+#### 公司/学校/研究所
 - **项目1**  
 项目描述
----代码连接：https://github.com/HeKangcium/face_recognition
+代码连接：https://github.com/HeKangcium/face_recognition
 - **项目2**  
 项目描述
----代码连接：https://github.com/HeKangcium/bdhehohai.github.io
+代码连接：https://github.com/HeKangcium/bdhehohai.github.io
