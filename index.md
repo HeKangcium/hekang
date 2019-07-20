@@ -2,14 +2,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>贺康</h1>> 这是一段注释
+      <h1>贺康</h1>
       <p><b>硕士研究生</b></p>
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/pepper.bmp" width="100%">
+      <img src="/pepper.bmp" width="100%">    %注释
     </td>
   </tr>
 </table>
