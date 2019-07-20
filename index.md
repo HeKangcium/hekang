@@ -9,7 +9,7 @@
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/pic.jpg" width="100%">
+      <img src="/pepper.bmp" width="100%">
     </td>
   </tr>
 </table>
@@ -37,10 +37,10 @@
 ### 项目研究
 #### 公司/学校/研究所
 - **项目1**  
-项目描述
+项目描述：xxxxxxxxxxxxxxxxxxxxx
 论文地址：http://xueshu.baidu.com/usercenter/paper/show?paperid=bde8feb00f1a38776c50b22f877bb197&site=xueshu_se
 - **项目2**  
-项目描述
+项目描述：xxxxxxxxxxxxxxxxxxxxxxxx
 论文地址：http://xueshu.baidu.com/usercenter/paper/show?paperid=bde8feb00f1a38776c50b22f877bb197&site=xueshu_se
 
 #### 公司/学校/研究所（2017.9~至今）
