@@ -45,4 +45,4 @@
 - **项目1**  
 项目描述[代码连接](https://github.com/HeKangcium/face_recognition)
 - **项目2**  
-- 项目描述代码连接(https://github.com/HeKangcium/bdhehohai.github.io)
+- 项目描述[代码连接](https://github.com/HeKangcium/bdhehohai.github.io)
